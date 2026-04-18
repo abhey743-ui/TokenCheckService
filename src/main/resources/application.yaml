@@ -6,7 +6,8 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: https://eurekaserverservice.onrender.com/eureka
+      defaultZone: https://eurekaserverservice.up.railway.app
+
   instance:
     prefer-ip-address: true    
 
